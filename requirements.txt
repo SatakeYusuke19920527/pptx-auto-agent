@@ -6,3 +6,4 @@ azure-functions
 openai
 python-pptx
 azure-storage-blob
+backoff
